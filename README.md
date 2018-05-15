@@ -14,3 +14,6 @@ npm run hmr
 
 ## see on browser
 http://localhost:4200
+
+## how to used
+change data in component or html page then save that wait from page is automatic reload but reload all, load content only changed
